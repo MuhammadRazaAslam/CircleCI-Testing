@@ -1,6 +1,5 @@
-<<<<<<< HEAD
 # CircleCI-Testing
-=======
+
 # README
 
 This README would normally document whatever steps are necessary to get the
@@ -25,4 +24,3 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
->>>>>>> 3966668... Setup
